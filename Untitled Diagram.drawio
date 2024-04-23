@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T01:45:29.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="OzP26q-bJEtdnIflUctW" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T02:04:13.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RXdEv38HB8s7yzJ5bdEr" version="24.2.7" type="github">
   <diagram name="Page-1" id="HR8k2efPUCRG90z_r8_K">
-    <mxGraphModel dx="1400" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2135" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,8 +72,8 @@
             <mxPoint x="511" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qw63-wXuHICuZPtXQRaW-16" value="VTEP1&lt;div&gt;vni:5001&lt;/div&gt;&lt;div&gt;ip:1.1.1.1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="4" y="256" width="60" height="76" as="geometry" />
+        <mxCell id="Qw63-wXuHICuZPtXQRaW-16" value="VTEP1&lt;div&gt;vni:5001&lt;/div&gt;&lt;div&gt;ip:1.1.1.1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="3" y="256" width="60" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Qw63-wXuHICuZPtXQRaW-20" value="node1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="151" y="439" width="50" height="30" as="geometry" />
@@ -208,18 +208,18 @@
           <mxGeometry x="19" y="587" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qw63-wXuHICuZPtXQRaW-63" value="192.168.1.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="8" y="439" width="90" height="30" as="geometry" />
+          <mxGeometry x="18" y="441" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qw63-wXuHICuZPtXQRaW-64" value="192.168.1.3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="439" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qw63-wXuHICuZPtXQRaW-66" value="VTEP2&lt;div&gt;vni:5002&lt;/div&gt;&lt;div&gt;ip:2.2.2.2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="Qw63-wXuHICuZPtXQRaW-66" value="VTEP2&lt;div&gt;vni:5002&lt;/div&gt;&lt;div&gt;ip:2.2.2.2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="350" y="258" width="60" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Qw63-wXuHICuZPtXQRaW-67" value="VTEP3&lt;div&gt;vni:5003&lt;/div&gt;&lt;div&gt;ip:3.3.3.3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="Qw63-wXuHICuZPtXQRaW-67" value="VTEP3&lt;div&gt;vni:5003&lt;/div&gt;&lt;div&gt;ip:3.3.3.3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="417" y="257" width="60" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Qw63-wXuHICuZPtXQRaW-68" value="VTEP4&lt;div&gt;vni:5004&lt;/div&gt;&lt;div&gt;ip:4.4.4.4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="Qw63-wXuHICuZPtXQRaW-68" value="VTEP4&lt;div&gt;vni:5004&lt;/div&gt;&lt;div&gt;ip:4.4.4.4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="755" y="258" width="60" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Qw63-wXuHICuZPtXQRaW-70" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;node192.168.1.2&amp;nbsp; send packet to node 192.168.1.3 flow with vxlan:&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1&lt;font style=&quot;font-size: 14px;&quot;&gt;. node192.168.1.2 send ethernet packet and it will arrive at leaf1&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2. leaf1 VTEP1 add vxlan header and then send it&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space-collapse: preserve;&quot;&gt;encapsulated &lt;/span&gt;&lt;font style=&quot;background-color: initial; font-size: 14px;&quot;&gt;to all other VTEP.&amp;nbsp; The VTEP3 receive the packet and&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255); color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;strip off the VXLAN header, then send it encapsulated to node192.168.1.3.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space-collapse: preserve;&quot;&gt;3. node192.168.1.3 send the reply packet to VTEP3. The VTEP3 will add vxlan header and &lt;/span&gt;&lt;font style=&quot;background-color: initial; font-size: 14px;&quot;&gt;then send it&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255); color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;encapsulated &lt;/span&gt;&lt;font style=&quot;background-color: initial; font-size: 14px;&quot;&gt;to VETP1. The VTEP1&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;background-color: initial; font-size: 14px;&quot;&gt;receive the packet and&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255); color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;strip off the VXLAN header, then send it encapsulated to node192.168.1.2.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -228,15 +228,15 @@
         <mxCell id="Qw63-wXuHICuZPtXQRaW-71" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="244" as="sourcePoint" />
-            <mxPoint x="920" y="250" as="targetPoint" />
+            <mxPoint x="990" y="250" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qw63-wXuHICuZPtXQRaW-72" value="Layer3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="850" y="194" width="60" height="30" as="geometry" />
+          <mxGeometry x="880" y="194" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qw63-wXuHICuZPtXQRaW-73" value="Layer2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="855" y="267" width="60" height="30" as="geometry" />
+          <mxGeometry x="880" y="267" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qw63-wXuHICuZPtXQRaW-75" value="vlan 4091" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="66" y="352" width="60" height="30" as="geometry" />
@@ -252,6 +252,78 @@
         </mxCell>
         <mxCell id="Qw63-wXuHICuZPtXQRaW-81" value="bandwidth ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="140" y="195" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-4" value="ethernet&amp;nbsp;&lt;div&gt;header&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="412" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-6" value="original data frame&lt;div&gt;src-ip:192.168.1.2&amp;nbsp;&lt;/div&gt;&lt;div&gt;dst-ip:192.168.1.3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-142" y="365" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-8" value="IP header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="413" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-9" value="payload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-21" y="413" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-10" value="UDP header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-41" y="28" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-11" value="vxlan packet&lt;div style=&quot;font-size: 15px;&quot;&gt;src-ip:1.1.1.1&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;dst-ip:3.3.3.3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-98" y="-30" width="126" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-12" value="vxlan header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="24" y="29" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-13" value="original data frame" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="89" y="29" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-14" value="IP header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-106" y="28" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-15" value="Ethernet header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="28" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-16" value="UDP header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="507" y="29" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-17" value="vxlan packet&lt;div style=&quot;font-size: 15px;&quot;&gt;src-ip:1.1.1.1&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;dst-ip:3.3.3.3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="441" y="-30" width="126" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-18" value="vxlan header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="572" y="29" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-19" value="IP header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="442" y="29" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-20" value="original data frame" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="636" y="28" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-22" value="ethernet&amp;nbsp;&lt;div&gt;header&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="353" y="464" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-23" value="original data frame&lt;div&gt;src-ip:192.168.1.3&amp;nbsp;&lt;/div&gt;&lt;div&gt;dst-ip:192.168.1.2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="354" y="416" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-24" value="IP header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="412" y="464" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-25" value="payload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="476" y="464" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="29" y="230" as="sourcePoint" />
+            <mxPoint x="29" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="240" as="sourcePoint" />
+            <mxPoint x="455" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnrcEjppG4UFtmEdDlIw-33" value="Ethernet header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="378" y="29" width="64" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
